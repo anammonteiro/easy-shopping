@@ -5,5 +5,5 @@
   
 <img src="https://github.com/anammonteiro/easy-shopping/blob/master/img/easy1.jpg?raw=true" width="250px"/>
 
-<img src="https://github.com/anammonteiro/easy-shopping/blob/master/img/easy2.jpg?raw=true" width="750px"/>
+<img src="https://github.com/anammonteiro/easy-shopping/blob/master/img/easy2.jpg?raw=true" width="700px"/>
  
