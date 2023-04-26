@@ -3,7 +3,7 @@
 <br>
 <h2>Este foi um projeto responsivo, em HTML e CSS, que aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub:</a><h2>
   
-<img src="https://github.com/anammonteiro/easy-shopping/blob/master/img/easy1.jpg?raw=true" width="250px"/>
+<img src="https://github.com/anammonteiro/easy-shopping/blob/master/img/easy1.jpg?raw=true" width="100px"/>
 
-<img src="https://github.com/anammonteiro/easy-shopping/blob/master/img/easy2.jpg?raw=true" width="755px"/>
+<img src="https://github.com/anammonteiro/easy-shopping/blob/master/img/easy2.jpg?raw=true" width="200px"/>
  
